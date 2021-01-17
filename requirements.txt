@@ -1,0 +1,8 @@
+emoji==0.6.0
+seaborn==0.10.1
+textblob==0.15.3
+spacy==2.3.2
+nltk==3.5
+matplotlib==3.2.2
+streamlit==0.74.1
+beautifulsoup4==4.9.3
